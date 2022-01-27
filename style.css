@@ -62,45 +62,57 @@ body{
 }
 
 #img1-1-draggable{
-    left: 650px;
+    position: absolute;
+    left: 8000px;
     top:100px;
 }
 
 #img1-2-draggable{
+    position: absolute;
     left: 700px;
     top:130px;
 }
 
 #img1-3-draggable{
+    position: absolute;
     left: 720px;
-    top:200px;
+    top:250px;
 }
 
 #img2-1-draggable{
+    position: absolute;
     top:110px;
+    left: 850px;
 }
 
 #img2-2-draggable{
-    top:0px;
+    position: absolute;
+    top:50px;
+    left: 719px;
 }
 
 #img2-3-draggable{
+    position: absolute;
     top:210px;
+    left: 900px;
 }
 
 
 
 #img3-1-draggable{
+    position: absolute;
     top:110px;
     left: 610px;
 }
 
 #img3-2-draggable{
+    position: absolute;
     top:99px;
-    left: 500px;
+    left: 920px;
 }
 
 #img3-3-draggable{
+    position: absolute;
     top:210px;
-    left: 515px;
+    left: 870px;
 }
